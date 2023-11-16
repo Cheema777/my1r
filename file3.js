@@ -3,7 +3,7 @@ var userName = prompt("What's your name?");
 
 // Display a greeting
 if (userName) {
-  alert("Hello, " + userName + "! Welcome to the world of JavaScript.");
+  alert("Hello, " + AbdullahCheema + "! Welcome to the world of JavaScript.");
 } else {
   alert("Hello, stranger! Welcome to the world of JavaScript.");
 }
